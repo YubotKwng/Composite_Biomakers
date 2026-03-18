@@ -1,1 +1,1 @@
-target,combination,r2,rmse,n_rows,status
+target,combination,r2,rmse,lambda_mean,alpha_mean,n_rows,status
